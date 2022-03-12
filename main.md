@@ -33,7 +33,8 @@
 |-----------|-----------|-----------|
 |buzzword|流行词汇|
 |ad hominem|针对个人的(adj.adv.)| ad hominem insults 人身攻击|
-|branch|分公司（如银行）|
+|homophobic, claustrophobic, trypophobic|各种恐惧症|
+
 
 ### Regular Contract
 |Expression|Explanation|Examples or Remarks|
@@ -52,6 +53,8 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |🍆、🍌|dick|
+|knockers|tities|aus Cassie, aus Euphoria|
+|touchdown|about to cum or reach orgasm|when moaning in the couch, you shall yell this out|
 
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -65,7 +68,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |succeed in academic |学术上成功|十分常用的collocation|
-### Jobs jobs jobs 👏
+### *Jobs jobs jobs* 👏 -- D. Trump
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |chuck one's job|quit one's job|
@@ -79,6 +82,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |marketability|市场潜力|
+|branch|分公司（如银行）|
 ## Do Academics
 ### Writing
 |Expression|Explanation|Examples or Remarks|
@@ -106,6 +110,8 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |beckon|开始有发生的迹象、趋势|这个词本来主要的意思是“示意”、“吸引”，另外可以表示“seem to be appealing or inviting”. The divorce beckons.|
+|antecedence|先前的事物（前置条件）|Creative thinking is the antecedence of design.|
+|by dint of|by means of, 凭借着……|
 
 ## Play Politics
 
@@ -114,5 +120,11 @@
 |fiscally conservative|财政上保守的|
 |the Oval Office|美国总统的办公地点，坐落于白宫|
 |Amnesty International|大赦国际|总部设于英国的国际组织，专事争取释放因信仰问题被关押者，并提倡取消刑讯、废除死刑|
+|pernicious|有害的（尤指潜移默化的）|the media's pernicious influence 媒体洗脑|
 
-
+## Helpful Adj. & Adv
+### All ablout ~~dick~~ size
+#### Small, a bit
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|a splash of|一点儿|Just **a splash of** milk in my coffee, please.|
