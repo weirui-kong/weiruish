@@ -21,7 +21,20 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |food coma|饭后的疲倦|
-### Housewife & Househusband
+|haggard|憔悴的、疲惫的|词源不确定，可能来自古法语faulcon hagard,野鹰，被抓获的猎鹰，来自古英语haga,树篱，篱笆，围栏，词源同haw,hedge.因野鹰的天性狂野，桀骜不驯，被抓获后常绝食而亡，因此引申词义消瘦的，后用为形容人憔悴的。|
+### Having a relationship
+#### Wanna hookup?
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|love rat|渣男|本词男女通用，表示薄幸郎、负心汉、爱情骗子、大猪蹄子...|
+|jerk, dick, cheater, asshole|渣男（有出轨之实）|He's such a jerk/dick/cheater/asshole, can't you tell? 他就是个渣男，这都看不出来吗？|
+|playboy, player, two-timer|渣男（有出轨迹象）|For what is worth, Kenny is nothing but a playboy/player/two-timer.别怪我没提醒，肯尼是个花花肠子。|
+|douche /duːʃ/ bag |有渣男；变态的含义|douche bag的原意是“冲洗袋”，它同样也可以用来骂“渣男”和“变态”。As long as I never have to date another douche bag again, I could do anything.只要我不必再和渣男约会，我啥都愿意做。|
+|bastard |混蛋；渣男|bastard可以表示“杂种；私生子”的意思，在《权力的游戏》中琼·雪诺就被称为bastard。That bastard dumped me after he took advantage of me.那个渣男利用完我就把我甩了。|
+|mistress|情妇|Peter had an affair with his boss’s mistress.皮特和他老板的情妇有一腿。|
+|paramour /ˈpærəmʊə(r)/|小三儿（情妇，情夫；情人）（相比 mistress 更温和）|He kept you here to be his paramour?他就让你藏这儿当他情妇？|
+|kept / fancy woman|被包养的女人|What lead you to the thought of being a kept /fancy woman?是什么让你有被包养的念头？|
+#### Housewife & Househusband
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |revamp home|做家务|
@@ -61,6 +74,8 @@
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
+|Eeny-weeny, teeny-weeny, shriveled little short dick man|🤏🐔👨|
+
 ### Affection
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -86,6 +101,7 @@
 |marketability|市场潜力|
 |branch|分公司（如银行）|
 |lopsided economic relations|极不平衡的经济关系|
+|house-hold saving rate|家庭储蓄率|
 #### Phenomenon
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -102,6 +118,7 @@
 |-----------|-----------|-----------|
 |hit a slump|暴跌|
 |underscore| 强调、凸显|The figures underscore the shaky state of the economy.|
+|top *(v.)*|占据第一、顶部的位置|India topped a list. = India is the top one of list.|
 #### Argumentaion etc.
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -114,7 +131,7 @@
 ##### Img/AU/VI
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
-|vector graphics|矢量图||
+|vector graphics|矢量图|
 |raster graphics|位图|
 ### High-end expression (nerd version)
 
