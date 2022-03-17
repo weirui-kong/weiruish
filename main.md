@@ -12,6 +12,7 @@
 #### Negative
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
+|living in cloud **cuckoo** land||我们常用这个说法来形容一个生活在梦幻世界中的人，异想天开的人。这种人的想法通常非常不现实，其至让人觉得有些可笑。*cuckoo本来指杜鹃鸟*|
 ### Ego-body
 #### Mental
 |Expression|Explanation|Examples or Remarks|
@@ -25,6 +26,7 @@
 |-----------|-----------|-----------|
 |revamp home|做家务|
 |chore|家务|还可以指繁重的活儿|
+|go/walk down the aisle|结婚/步入婚姻殿堂|
 #### Grocer
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -78,11 +80,18 @@
 |-----------|-----------|-----------|
 |College acceptance rate|大学升学率|注意，美国大学是申请入学|
 ### Economy
-
+#### Terms
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |marketability|市场潜力|
 |branch|分公司（如银行）|
+|lopsided economic relations|极不平衡的经济关系|
+#### Phenomenon
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|trickle down effect|涓滴效应|指在经济发展过程中并不给予贫困阶层、弱势群体或贫困地区特别的优待，而是由优先发展起来的群体或地区通过消费、就业等方面惠及贫困阶层或地区，带动其发展和富裕，或认为政府财政津贴可经过大企业再陆续流入小企业和消费者之手，从而更好地促进经济增长的理论。|
+|reactionary |保守的、反动的|来自法语.原意是向相反的方向和恢复以前的状态.法国大革命时代赋予了政治意义并传入英语.这些人在大革命中反对政治和经济的变革,主张复古,因此是保守的 ,反对社会变革,阻碍社会进步,因此是反动的.和我们理解的反动有点不同.|
+## One's behavior
 ## Do Academics
 ### Writing
 |Expression|Explanation|Examples or Remarks|
@@ -91,7 +100,9 @@
 #### Graph or Applied Writing
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
-#### Argumataion etc.
+|hit a slump|暴跌|
+|underscore| 强调、凸显|The figures underscore the shaky state of the economy.|
+#### Argumentaion etc.
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 ### Terms
@@ -123,8 +134,13 @@
 |pernicious|有害的（尤指潜移默化的）|the media's pernicious influence 媒体洗脑|
 
 ## Helpful Adj. & Adv
-### All ablout ~~dick~~ size
+### All about the size *~~of dick~~*
 #### Small, a bit
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |a splash of|一点儿|Just **a splash of** milk in my coffee, please.|
+
+## Random Collections
+|Expression|Explanation|
+|-----------|-----------|
+|荷兰|![](src/一点儿.png)|
