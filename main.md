@@ -57,11 +57,20 @@
 |Small print|附加条款|
 
 
-### Social
+### Social & Market
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |social hierarchy|社会阶层|
 |prestige panic|名誉恐惧|过度追求名誉|
+|problematic goods|（质量有问题）的商品|
+|squalid conditions|恶劣的条件|filthy conditions|
+|undercover reporters|卧底记者|
+
+### Netti
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|offset the bad publicity|公关|
+
 
 ### Bad words
 #### Horny
@@ -94,6 +103,11 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |College acceptance rate|大学升学率|注意，美国大学是申请入学|
+
+### Eco eco
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|carbon sink|碳汇集|
 ### Economy
 #### Terms
 |Expression|Explanation|Examples or Remarks|
@@ -108,6 +122,8 @@
 |trickle down effect|涓滴效应|指在经济发展过程中并不给予贫困阶层、弱势群体或贫困地区特别的优待，而是由优先发展起来的群体或地区通过消费、就业等方面惠及贫困阶层或地区，带动其发展和富裕，或认为政府财政津贴可经过大企业再陆续流入小企业和消费者之手，从而更好地促进经济增长的理论。|
 |reactionary |保守的、反动的|来自法语.原意是向相反的方向和恢复以前的状态.法国大革命时代赋予了政治意义并传入英语.这些人在大革命中反对政治和经济的变革,主张复古,因此是保守的 ,反对社会变革,阻碍社会进步,因此是反动的.和我们理解的反动有点不同.|
 ## One's behavior
+
+
 ## Do Academics
 ### Writing
 |Expression|Explanation|Examples or Remarks|
@@ -118,7 +134,9 @@
 |-----------|-----------|-----------|
 |hit a slump|暴跌|
 |underscore| 强调、凸显|The figures underscore the shaky state of the economy.|
+|beef up|增加|
 |top *(v.)*|占据第一、顶部的位置|India topped a list. = India is the top one of list.|
+|mix|组成情况|相当于各种share的pie chart，比如energy consumption mix|
 #### Argumentaion etc.
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -127,6 +145,11 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |statistical fluke|统计侥幸（巧合）|
+|viable|可行的|practical, practicable|
+#### Metaphor
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|smockstack|n.大烟囱 adj.重工业的|因为工厂上会有大烟囱，所以这个词作形容词就可以指重工业的，比如smockstack industries|
 #### CS
 ##### Img/AU/VI
 |Expression|Explanation|Examples or Remarks|
@@ -150,6 +173,11 @@
 |Amnesty International|大赦国际|总部设于英国的国际组织，专事争取释放因信仰问题被关押者，并提倡取消刑讯、废除死刑|
 |pernicious|有害的（尤指潜移默化的）|the media's pernicious influence 媒体洗脑|
 
+### CCP Propaganda
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|at the national level|在国家层面上的|
+|enhacne cross-regional collaboration|加强跨区域合作|
 ## Helpful Adj. & Adv
 ### All about the size *~~of dick~~*
 #### Small, a bit
