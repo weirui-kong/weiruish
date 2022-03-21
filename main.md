@@ -146,6 +146,7 @@
 |-----------|-----------|-----------|
 |statistical fluke|统计侥幸（巧合）|
 |viable|可行的|practical, practicable|
+|underlie|构成……的基础|**⚠️注意！不能是被动**。例：Intellect underlies the power.才智是权利的基础.|
 #### Metaphor
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
