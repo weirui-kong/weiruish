@@ -1,6 +1,11 @@
 
 # Weiruish
 ## Living in a Place
+### Describe a thing
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|recto|书籍的右边一页、奇数页|
+|verso|书籍的左边一页、偶数页|
 ### Describe a person
 #### Positive
 |Expression|Explanation|Examples or Remarks|
@@ -47,7 +52,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |buzzword|流行词汇|
-|ad hominem|针对个人的(adj.adv.)| ad hominem insults 人身攻击|
+|ad hominem|针对个人的(adj.adv.)|ad hominem insults 人身攻击|
 |homophobic, claustrophobic, trypophobic|各种恐惧症|
 
 
@@ -66,6 +71,12 @@
 |squalid conditions|恶劣的条件|filthy conditions|
 |undercover reporters|卧底记者|
 
+#### Public Health
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|asympotonmatic infecction|无症状感染|
+|close contact|密切接触|
+|nucleic acid test|核酸检测|
 ### Netti
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -94,7 +105,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |succeed in academic |学术上成功|十分常用的collocation|
-### *Jobs jobs jobs* 👏 -- D. Trump
+### *Jobs jobs jobs* 👏|- D. Trump
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |chuck one's job|quit one's job|
@@ -103,6 +114,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |College acceptance rate|大学升学率|注意，美国大学是申请入学|
+|public venue(s)|公共场所|
 
 ### Eco eco
 |Expression|Explanation|Examples or Remarks|
@@ -133,13 +145,15 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |hit a slump|暴跌|
-|underscore| 强调、凸显|The figures underscore the shaky state of the economy.|
+|underscore|强调、凸显|The figures underscore the shaky state of the economy.|
 |beef up|增加|
 |top *(v.)*|占据第一、顶部的位置|India topped a list. = India is the top one of list.|
 |mix|组成情况|相当于各种share的pie chart，比如energy consumption mix|
 #### Argumentaion etc.
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
+|take ... as the highest priority|将……摆在最优先位置|
+|curb|抑制、阻碍|=restrain|
 ### Terms
 #### General Description
 |Expression|Explanation|Examples or Remarks|
@@ -173,6 +187,7 @@
 |the Oval Office|美国总统的办公地点，坐落于白宫|
 |Amnesty International|大赦国际|总部设于英国的国际组织，专事争取释放因信仰问题被关押者，并提倡取消刑讯、废除死刑|
 |pernicious|有害的（尤指潜移默化的）|the media's pernicious influence 媒体洗脑|
+|oanacea|（社会弊端等的）补救方法|
 
 ### CCP Propaganda
 |Expression|Explanation|Examples or Remarks|
@@ -187,6 +202,33 @@
 |a splash of|一点儿|Just **a splash of** milk in my coffee, please.|
 
 ## Random Collections
+
 |Expression|Explanation|
 |-----------|-----------|
 |荷兰|![](src/一点儿.png)|
+
+### Idioms
+|Expression|Explanation|
+|-----------|-----------|
+|white elephant|no longer needed, but expensive
+|white lie| kind lie
+|white collar| office worker
+|white collar resort 
+|blue collar| physical worker
+|out of the blue| surprising, unexpected smth (e.g. call) 
+|once in a blue moon| very rarely 
+|I have the blues| I feel sad 
+|blue blood| from a royal family
+|to paint the town red| to go to a lot of different bars and restaurants
+|red tape| a lot of bureaucracy, restrictions
+|roll out the red carpet| to give special hospitality
+|red herring| a fact or idea that takes your attention away from something that is important
+|red handed| caught right on the place of crime 
+|silver Spoon in his mouth| to be born into a very rich family
+|golden opportunity| perfect chance to do something
+|golden parachute| an agreement providing significant compensation if someone is fired, such as due to a merger
+|green with envy| very jealous
+|green light| a permission
+|grey area| unknown subject/ area 
+|black sheep| different from everyone
+
