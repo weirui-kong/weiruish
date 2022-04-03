@@ -10,7 +10,8 @@
 #### Positive
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
-#### Neutral
+|smashing|极棒的、轰动的、极好的|=amazing, a smashing success|
+#### Neutral & ambiguous
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |digitally savvy|对现代电子、信息化生活十分适应|
@@ -18,10 +19,15 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |living in cloud **cuckoo** land||我们常用这个说法来形容一个生活在梦幻世界中的人，异想天开的人。这种人的想法通常非常不现实，其至让人觉得有些可笑。*cuckoo本来指杜鹃鸟*|
+|con artist|【俚】骗子,以花言巧语骗人的人|
+|paparazzo|狗仔队(*pl*.paparazzi)|
+|mansplain|v.以居高临下的态度进行说教（常男对女）n.吹水佬|
+|stoner|n.Someone who smokes weed as often as possible; one who believes weed to make the world a better place to live in.|Usually a fan of Bob Marley and/or Sublime.|
 ### Ego-body
 #### Mental
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
+|anguished|极度痛苦的|trauma, torture, grief|
 #### Physical
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -55,11 +61,18 @@
 |ad hominem|针对个人的(adj.adv.)|ad hominem insults 人身攻击|
 |homophobic, claustrophobic, trypophobic|各种恐惧症|
 
+#### ^@#$%72
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|irl|in real life|
+
+
 
 ### Regular Contract
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |Small print|附加条款|
+|rescission|撤销、废除|rescission of contract/agreement|
 
 
 ### Social & Market
@@ -116,6 +129,16 @@
 |College acceptance rate|大学升学率|注意，美国大学是申请入学|
 |public venue(s)|公共场所|
 
+#### Drugs & moles
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|adrenaline|肾上腺素|
+
+#### Building, agency etc.
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|Civil Aviation Authority|民航管理局|China's Civil Aviation Authority 中国民航局|
+
 ### Eco eco
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -134,7 +157,11 @@
 |trickle down effect|涓滴效应|指在经济发展过程中并不给予贫困阶层、弱势群体或贫困地区特别的优待，而是由优先发展起来的群体或地区通过消费、就业等方面惠及贫困阶层或地区，带动其发展和富裕，或认为政府财政津贴可经过大企业再陆续流入小企业和消费者之手，从而更好地促进经济增长的理论。|
 |reactionary |保守的、反动的|来自法语.原意是向相反的方向和恢复以前的状态.法国大革命时代赋予了政治意义并传入英语.这些人在大革命中反对政治和经济的变革,主张复古,因此是保守的 ,反对社会变革,阻碍社会进步,因此是反动的.和我们理解的反动有点不同.|
 ## One's behavior
-
+### Felony
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|child molestation|猥亵儿童|
+|pedophile|恋童癖|-phile 癖好、嗜好: pedophile bibliophile audiophile|
 
 ## Do Academics
 ### Writing
@@ -161,10 +188,12 @@
 |statistical fluke|统计侥幸（巧合）|
 |viable|可行的|practical, practicable|
 |underlie|构成……的基础|**⚠️注意！不能是被动**。例：Intellect underlies the power.才智是权利的基础.|
+|escalation|提升、进步|
 #### Metaphor
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |smockstack|n.大烟囱 adj.重工业的|因为工厂上会有大烟囱，所以这个词作形容词就可以指重工业的，比如smockstack industries|
+
 #### CS
 ##### Img/AU/VI
 |Expression|Explanation|Examples or Remarks|
@@ -178,6 +207,12 @@
 |beckon|开始有发生的迹象、趋势|这个词本来主要的意思是“示意”、“吸引”，另外可以表示“seem to be appealing or inviting”. The divorce beckons.|
 |antecedence|先前的事物（前置条件）|Creative thinking is the antecedence of design.|
 |by dint of|by means of, 凭借着……|
+|lieu|[lu]n.代替|in lieu of = instead of|
+
+#### Rhetoric
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|outpouring of grief|悲伤的倾泻|
 
 ## Play Politics
 
@@ -188,12 +223,22 @@
 |Amnesty International|大赦国际|总部设于英国的国际组织，专事争取释放因信仰问题被关押者，并提倡取消刑讯、废除死刑|
 |pernicious|有害的（尤指潜移默化的）|the media's pernicious influence 媒体洗脑|
 |oanacea|（社会弊端等的）补救方法|
+|landslide|压倒性的胜利，一面倒的选举|本意是塌方、山崩|
+|regime|政权，政体|尤指未通过公正选举的统治方式（比如以BBC视角形容金氏政权）|
+
+### Threatening
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|intercontinental ballistic missile|洲际导弹|ICBM|
+|sanction|n.法案 v.制裁||
+|armed incursion|武装入侵|
 
 ### CCP Propaganda
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |at the national level|在国家层面上的|
 |enhacne cross-regional collaboration|加强跨区域合作|
+|purge|v. & n. 清除异己|是“清除、净化”的意思，扩大词意之后就是“清除异己”|
 ## Helpful Adj. & Adv
 ### All about the size *~~of dick~~*
 #### Small, a bit
@@ -217,7 +262,7 @@
 |blue collar| physical worker
 |out of the blue| surprising, unexpected smth (e.g. call) 
 |once in a blue moon| very rarely 
-|I have the blues| I feel sad 
+|I have the blues| I feel sad  
 |blue blood| from a royal family
 |to paint the town red| to go to a lot of different bars and restaurants
 |red tape| a lot of bureaucracy, restrictions
@@ -232,3 +277,10 @@
 |grey area| unknown subject/ area 
 |black sheep| different from everyone
 
+## Confusing Words
+
+|||||
+|-----------|-----------|-----------|-----------|
+|rare|adj. 稀少的、少有的|rarely|adj. 很少的、罕有的|
+|bare|adj. 赤裸的、仅有的|barely|adj. 仅仅、几乎不|
+|rear|adj. 后面的 <u>v.抚养</u> |||
