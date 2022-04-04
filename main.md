@@ -11,6 +11,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |smashing|极棒的、轰动的、极好的|=amazing, a smashing success|
+|resolute|坚决的、果决的|a resolute leader坚定果断的领导人；resolute actions|
 #### Neutral & ambiguous
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -84,12 +85,16 @@
 |squalid conditions|恶劣的条件|filthy conditions|
 |undercover reporters|卧底记者|
 
-#### Public Health
+#### Public Health, Medical
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |asympotonmatic infecction|无症状感染|
 |close contact|密切接触|
 |nucleic acid test|核酸检测|
+|dynamic zero-COVID approach|动态清零政策|
+|makeshift hospital|方舱医院|或者直接叫Fangcang hospital|
+|quarantine venues|隔离地点|
+|dispatch medical contingents|派遣医务（支援）代表队|
 ### Netti
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -239,6 +244,9 @@
 |at the national level|在国家层面上的|
 |enhacne cross-regional collaboration|加强跨区域合作|
 |purge|v. & n. 清除异己|是“清除、净化”的意思，扩大词意之后就是“清除异己”|
+|an inspection visit to|（领导）到……视察|
+|unswervingly|毫不动摇地、坚定不移地|
+|mobilize|动员|
 ## Helpful Adj. & Adv
 ### All about the size *~~of dick~~*
 #### Small, a bit
@@ -284,3 +292,9 @@
 |rare|adj. 稀少的、少有的|rarely|adj. 很少的、罕有的|
 |bare|adj. 赤裸的、仅有的|barely|adj. 仅仅、几乎不|
 |rear|adj. 后面的 <u>v.抚养</u> |||
+
+
+|||
+|-|-|
+|involve|v.需要、影响、参与、涉及到(concerning with)|
+|evolve |v.进化、逐步发展、逐步形成(transforming into)|
