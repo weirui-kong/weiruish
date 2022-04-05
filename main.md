@@ -6,6 +6,10 @@
 |-----------|-----------|-----------|
 |recto|书籍的右边一页、奇数页|
 |verso|书籍的左边一页、偶数页|
+#### Food & Drinks
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|beverage shop|饮品店|比如书亦|
 ### Describe a person
 #### Positive
 |Expression|Explanation|Examples or Remarks|
@@ -108,6 +112,8 @@
 |🍆、🍌|dick|
 |knockers|tities|aus Cassie, aus Euphoria|
 |touchdown|about to cum or reach orgasm|when moaning in the couch, you shall yell this out|
+|💍|cock ring|
+|✂️|scissors position|
 
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -285,16 +291,3 @@
 |grey area| unknown subject/ area 
 |black sheep| different from everyone
 
-## Confusing Words
-
-|||||
-|-----------|-----------|-----------|-----------|
-|rare|adj. 稀少的、少有的|rarely|adj. 很少的、罕有的|
-|bare|adj. 赤裸的、仅有的|barely|adj. 仅仅、几乎不|
-|rear|adj. 后面的 <u>v.抚养</u> |||
-
-
-|||
-|-|-|
-|involve|v.需要、影响、参与、涉及到(concerning with)|
-|evolve |v.进化、逐步发展、逐步形成(transforming into)|
