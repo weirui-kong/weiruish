@@ -65,6 +65,7 @@
 |buzzword|流行词汇|
 |ad hominem|针对个人的(adj.adv.)|ad hominem insults 人身攻击|
 |homophobic, claustrophobic, trypophobic|各种恐惧症|
+|craze|a temporary and viral trend|
 
 #### ^@#$%72
 |Expression|Explanation|Examples or Remarks|
@@ -114,6 +115,7 @@
 |touchdown|about to cum or reach orgasm|when moaning in the couch, you shall yell this out|
 |💍|cock ring|
 |✂️|scissors position|
+|bust down|A Bust down means a promiscuous woman who is always ready for sex with anyone.|
 
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -121,7 +123,7 @@
 |Eeny-weeny, teeny-weeny, shriveled little short dick man|🤏🐔👨|
 
 ### Affection
-#### Offensive
+
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |May-December romance |忘年恋|
@@ -162,6 +164,13 @@
 |branch|分公司（如银行）|
 |lopsided economic relations|极不平衡的经济关系|
 |house-hold saving rate|家庭储蓄率|
+|segment|（特指）行业|
+|heavyweight|行业巨头|
+|crossover brand|跨界营销|
+|vendor|供应商；售货机；小商贩|
+|penetration rate|渗透率|
+|overhyped|被夸大了的|
+|||
 #### Phenomenon
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -259,6 +268,16 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |a splash of|一点儿|Just **a splash of** milk in my coffee, please.|
+|a swarm of = swarms of|一群、一堆、成群的|
+
+### in a ...
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|in a sense|在某种意义上|
+### under the ...
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|under the yoke of|在……的枷锁下|
 
 ## Random Collections
 
@@ -274,7 +293,7 @@
 |white collar| office worker
 |white collar resort 
 |blue collar| physical worker
-|out of the blue| surprising, unexpected smth (e.g. call) 
+|out of the blue| surprising, unexpected sth (e.g. call) 
 |once in a blue moon| very rarely 
 |I have the blues| I feel sad  
 |blue blood| from a royal family
