@@ -10,6 +10,10 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |beverage shop|饮品店|比如书亦|
+#### Objects, appliance tec.
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|fixed-line phone|固话|
 ### Describe a person
 #### Positive
 |Expression|Explanation|Examples or Remarks|
@@ -111,11 +115,18 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |🍆、🍌|dick|
+|BBC|big black cock|
 |knockers|tities|aus Cassie, aus Euphoria|
 |touchdown|about to cum or reach orgasm|when moaning in the couch, you shall yell this out|
 |💍|cock ring|
 |✂️|scissors position|
 |bust down|A Bust down means a promiscuous woman who is always ready for sex with anyone.|
+|pie|Another word for being soft or pussy, meant to be filled and eaten|
+|kitty, kitten, grotto, nana, cherry, lips, cookie, crack, punani, macaroni, pie|pussy|
+|get a buck|go crazy|
+|lap dance|一种舞蹈, up down up down|
+|boy toy|a male used specifically by femals for pleasure and fun|
+|toss my salad|to rim(the act of kissing and licking someone's ass) with deep tongue penetration|
 
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -146,6 +157,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |adrenaline|肾上腺素|
+|codeine|可待因|
 
 #### Building, agency etc.
 |Expression|Explanation|Examples or Remarks|
@@ -166,6 +178,7 @@
 |house-hold saving rate|家庭储蓄率|
 |segment|（特指）行业|
 |heavyweight|行业巨头|
+|tycoon|大亨、巨头|
 |crossover brand|跨界营销|
 |vendor|供应商；售货机；小商贩|
 |penetration rate|渗透率|
@@ -196,6 +209,7 @@
 |beef up|增加|
 |top *(v.)*|占据第一、顶部的位置|India topped a list. = India is the top one of list.|
 |mix|组成情况|相当于各种share的pie chart，比如energy consumption mix|
+|dominate n% of *** market|贡献（占据）了某某市场某某百分比的份额|
 #### Argumentaion etc.
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -307,6 +321,6 @@
 |golden parachute| an agreement providing significant compensation if someone is fired, such as due to a merger
 |green with envy| very jealous
 |green light| a permission
-|grey area| unknown subject/ area 
+|grey area| unknown subject / area 
 |black sheep| different from everyone
 
