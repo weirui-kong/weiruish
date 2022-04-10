@@ -183,7 +183,7 @@
 |vendor|供应商；售货机；小商贩|
 |penetration rate|渗透率|
 |overhyped|被夸大了的|
-|||
+|debutante|刚上市的公司|本意是初入社交的富家女、名媛|
 #### Phenomenon
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -293,6 +293,10 @@
 |-----------|-----------|-----------|
 |under the yoke of|在……的枷锁下|
 
+### be p.p. on/for/of
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|were patterned on|……是仿造于……|这个可以表示某个说法是借用于某某， expressionA was patterned on expressionB|
 ## Random Collections
 
 |Expression|Explanation|
