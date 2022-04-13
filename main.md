@@ -1,6 +1,9 @@
 
 # Weiruish
 ## Living in a Place
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|impersonal|没有人情味的|常用形容城市十分冷漠|
 ### Describe a thing
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -117,7 +120,7 @@
 |🍆、🍌|dick|
 |BBC|big black cock|
 |knockers|tities|aus Cassie, aus Euphoria|
-|touchdown|about to cum or reach orgasm|when moaning in the couch, you shall yell this out|
+|touchdown|about to cum or reach orgasm|when moaning in th$$e couch, you shall yell this out|
 |💍|cock ring|
 |✂️|scissors position|
 |bust down|A Bust down means a promiscuous woman who is always ready for sex with anyone.|

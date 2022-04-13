@@ -12,11 +12,10 @@
 |Snake Case|蛇形命名法|`my_variable_name`|
 
 - Escape Characters 转义字符
-
+- 
 常见转义字符
-|||||
-|-|-|-|-|
 |Code|Result|Code|Result|
+|-|-|-|-|
 |\\'|Single Quote|\\t|Tab|
 |\\\\ |Backslash|\\b|Backspace|
 |\\n|New Line|\\f|Form Feed|
