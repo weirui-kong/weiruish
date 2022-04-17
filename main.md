@@ -9,6 +9,10 @@
 |-----------|-----------|-----------|
 |recto|书籍的右边一页、奇数页|
 |verso|书籍的左边一页、偶数页|
+#### Clothes & Fashion
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|traditional Korean attire|传统韩服|
 #### Food & Drinks
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -40,6 +44,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |anguished|极度痛苦的|trauma, torture, grief|
+|melt with emotion|overwhelm|
 #### Physical
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -74,11 +79,15 @@
 |homophobic, claustrophobic, trypophobic|各种恐惧症|
 |craze|a temporary and viral trend|
 
-#### ^@#$%72
+#### Acronym
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |irl|in real life|
 
+#### Compound
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|bromance|close relationship WITHOUT sexual attached|
 
 
 ### Regular Contract
@@ -149,6 +158,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |chuck one's job|quit one's job|
+|TV anchor|电视主持人|
 
 ### Real-world substance or definition
 |Expression|Explanation|Examples or Remarks|
@@ -213,6 +223,7 @@
 |top *(v.)*|占据第一、顶部的位置|India topped a list. = India is the top one of list.|
 |mix|组成情况|相当于各种share的pie chart，比如energy consumption mix|
 |dominate n% of *** market|贡献（占据）了某某市场某某百分比的份额|
+|astronomical|天文数字的、数量非常大的|
 #### Argumentaion etc.
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -262,6 +273,10 @@
 |oanacea|（社会弊端等的）补救方法|
 |landslide|压倒性的胜利，一面倒的选举|本意是塌方、山崩|
 |regime|政权，政体|尤指未通过公正选举的统治方式（比如以BBC视角形容金氏政权）|
+|hermetically sealed nation|极端封闭、与世隔绝的国家（如朝鲜）|
+|revered as god by North Korea citizens|被朝鲜公民尊敬、视作神一样|
+|||
+|||
 
 ### Threatening
 |Expression|Explanation|Examples or Remarks|
