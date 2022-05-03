@@ -133,12 +133,15 @@
 |💍|cock ring|
 |✂️|scissors position|
 |bust down|A Bust down means a promiscuous woman who is always ready for sex with anyone.|
+|thot|A girl who is looked at as a hoe or slut.|
 |pie|Another word for being soft or pussy, meant to be filled and eaten|
 |kitty, kitten, grotto, nana, cherry, lips, cookie, crack, punani, macaroni, pie|pussy|
 |get a buck|go crazy|
 |lap dance|一种舞蹈, up down up down|
 |boy toy|a male used specifically by femals for pleasure and fun|
 |toss my salad|to rim(the act of kissing and licking someone's ass) with deep tongue penetration|
+|rando|a stranger, especially a man, who is used for gratuitous sex.|Why is that rando staring at my ass?|
+|||I went to a bar and tool home a rando.|
 
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -197,6 +200,7 @@
 |penetration rate|渗透率|
 |overhyped|被夸大了的|
 |debutante|刚上市的公司|本意是初入社交的富家女、名媛|
+|expectancv|预期、期望|
 #### Phenomenon
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -275,8 +279,10 @@
 |regime|政权，政体|尤指未通过公正选举的统治方式（比如以BBC视角形容金氏政权）|
 |hermetically sealed nation|极端封闭、与世隔绝的国家（如朝鲜）|
 |revered as god by North Korea citizens|被朝鲜公民尊敬、视作神一样|
-|||
-|||
+|outcry|n.强烈的抗议（或反对）|There is a public outcry over the rise in prices.
+公众强烈抗议物价的上涨。|
+|machinery|民主制度|
+|condone|纵容（不道德行为）|We cannot condone violence of any sort. 们不能容忍任何形式的暴力。|
 
 ### Threatening
 |Expression|Explanation|Examples or Remarks|
@@ -294,7 +300,9 @@
 |an inspection visit to|（领导）到……视察|
 |unswervingly|毫不动摇地、坚定不移地|
 |mobilize|动员|
+|an act of unprovoked aggression|无端的侵犯行为|
 ## Helpful Adj. & Adv
+
 ### All about the size *~~of dick~~*
 #### Small, a bit
 |Expression|Explanation|Examples or Remarks|
@@ -302,10 +310,11 @@
 |a splash of|一点儿|Just **a splash of** milk in my coffee, please.|
 |a swarm of = swarms of|一群、一堆、成群的|
 
-### in a ...
+### in a/the/this/that ...
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |in a sense|在某种意义上|
+|in ... fashion|以……的方式|
 ### under the ...
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -315,6 +324,16 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |were patterned on|……是仿造于……|这个可以表示某个说法是借用于某某， expressionA was patterned on expressionB|
+
+## Conjunction, preposition
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|save (that, to, for...)|(formal or literary)除了|I am well save that I have a cold. 我很好，只是感冒了。|
+|||The house was deserted, save for one old housekeeper. 除了一个老管家之外，房子里空无一人。|
+|||
+|irrespective of|不管，不顾|
+|regardless of|不管，不顾|
+
 ## Random Collections
 
 |Expression|Explanation|
