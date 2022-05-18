@@ -31,6 +31,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |digitally savvy|对现代电子、信息化生活十分适应|
+|doppelgänger|a person's doppelgänger is another person who looks exactly like them|
 #### Negative
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
@@ -56,7 +57,7 @@
 |-----------|-----------|-----------|
 |love rat|渣男|本词男女通用，表示薄幸郎、负心汉、爱情骗子、大猪蹄子...|
 |jerk, dick, cheater, asshole|渣男（有出轨之实）|He's such a jerk/dick/cheater/asshole, can't you tell? 他就是个渣男，这都看不出来吗？|
-|playboy, player, two-timer|渣男（有出轨迹象）|For what is worth, Kenny is nothing but a playboy/player/two-timer.别怪我没提醒，肯尼是个花花肠子。|
+|playboy, player, playa, two-timer|渣男（有出轨迹象）|For what is worth, Kenny is nothing but a playboy/player/two-timer.别怪我没提醒，肯尼是个花花肠子。|
 |douche /duːʃ/ bag |有渣男；变态的含义|douche bag的原意是“冲洗袋”，它同样也可以用来骂“渣男”和“变态”。As long as I never have to date another douche bag again, I could do anything.只要我不必再和渣男约会，我啥都愿意做。|
 |bastard |混蛋；渣男|bastard可以表示“杂种；私生子”的意思，在《权力的游戏》中琼·雪诺就被称为bastard。That bastard dumped me after he took advantage of me.那个渣男利用完我就把我甩了。|
 |mistress|情妇|Peter had an affair with his boss’s mistress.皮特和他老板的情妇有一腿。|
@@ -78,11 +79,15 @@
 |ad hominem|针对个人的(adj.adv.)|ad hominem insults 人身攻击|
 |homophobic, claustrophobic, trypophobic|各种恐惧症|
 |craze|a temporary and viral trend|
+|vis a vis|with regard to|
+|Pep Talk|This is usually a 5-10 minute speech given by your Supervisor at work,so as to make you work twice as hard for the same amount of money.|
+||to get oral sex. /to receive a blowjob.|
 
 #### Acronym
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |irl|in real life|
+|brb|br right back|
 
 #### Compound
 |Expression|Explanation|Examples or Remarks|
@@ -142,6 +147,7 @@
 |toss my salad|to rim(the act of kissing and licking someone's ass) with deep tongue penetration|
 |rando|a stranger, especially a man, who is used for gratuitous sex.|Why is that rando staring at my ass?|
 |||I went to a bar and tool home a rando.|
+|perv|Perv is short for pervert(变态). Pervert means some one who is interested in seeing people naked or having sex with them.|We are all perverts, we are just afraid to admit it.|
 
 #### Offensive
 |Expression|Explanation|Examples or Remarks|
@@ -275,14 +281,15 @@
 |Amnesty International|大赦国际|总部设于英国的国际组织，专事争取释放因信仰问题被关押者，并提倡取消刑讯、废除死刑|
 |pernicious|有害的（尤指潜移默化的）|the media's pernicious influence 媒体洗脑|
 |oanacea|（社会弊端等的）补救方法|
+|paramount|至高无上的|*无贬义*|
+|tyranny|暴政、专制政府|
 |landslide|压倒性的胜利，一面倒的选举|本意是塌方、山崩|
 |regime|政权，政体|尤指未通过公正选举的统治方式（比如以BBC视角形容金氏政权）|
 |hermetically sealed nation|极端封闭、与世隔绝的国家（如朝鲜）|
 |revered as god by North Korea citizens|被朝鲜公民尊敬、视作神一样|
-|outcry|n.强烈的抗议（或反对）|There is a public outcry over the rise in prices.
-公众强烈抗议物价的上涨。|
+|outcry|n.强烈的抗议（或反对）|There is a public outcry over the rise in prices.公众强烈抗议物价的上涨。|
 |machinery|民主制度|
-|condone|纵容（不道德行为）|We cannot condone violence of any sort. 们不能容忍任何形式的暴力。|
+|condone|纵容（不道德行为）|We cannot condone violence of any sort. 我们不能容忍任何形式的暴力。|
 
 ### Threatening
 |Expression|Explanation|Examples or Remarks|
@@ -324,6 +331,11 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |were patterned on|……是仿造于……|这个可以表示某个说法是借用于某某， expressionA was patterned on expressionB|
+
+### Identifier
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|verbatim|adv.逐字、一模一样地|
 
 ## Conjunction, preposition
 |Expression|Explanation|Examples or Remarks|
