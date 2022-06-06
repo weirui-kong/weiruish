@@ -6,6 +6,8 @@ Getting to know every single meaning of a word 👉 [Additional](https://github.
 
 Look-alike words and expressions 👉 [Confusing](https://github.com/weirui-kong/weiruish/blob/main/confusing.md)
 
+Good Sentences 👉 [Good Sentences](https://github.com/weirui-kong/weiruish/blob/main/good_sentences.md)
+
 My Computerese Collections 👉 [Computerese 计算机专业术语](https://github.com/weirui-kong/weiruish/blob/main/computerese.md)
 
 

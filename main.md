@@ -110,6 +110,7 @@
 |problematic goods|（质量有问题）的商品|
 |squalid conditions|恶劣的条件|filthy conditions|
 |undercover reporters|卧底记者|
+|public persona|人設、人物設定|
 
 #### Public Health, Medical
 |Expression|Explanation|Examples or Remarks|
@@ -185,6 +186,7 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |Civil Aviation Authority|民航管理局|China's Civil Aviation Authority 中国民航局|
+|bistro|小餐館|
 
 ### Eco eco
 |Expression|Explanation|Examples or Remarks|
@@ -207,11 +209,14 @@
 |overhyped|被夸大了的|
 |debutante|刚上市的公司|本意是初入社交的富家女、名媛|
 |expectancv|预期、期望|
-#### Phenomenon
+#### Phenomenon & Psychology
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |trickle down effect|涓滴效应|指在经济发展过程中并不给予贫困阶层、弱势群体或贫困地区特别的优待，而是由优先发展起来的群体或地区通过消费、就业等方面惠及贫困阶层或地区，带动其发展和富裕，或认为政府财政津贴可经过大企业再陆续流入小企业和消费者之手，从而更好地促进经济增长的理论。|
 |reactionary |保守的、反动的|来自法语.原意是向相反的方向和恢复以前的状态.法国大革命时代赋予了政治意义并传入英语.这些人在大革命中反对政治和经济的变革,主张复古,因此是保守的 ,反对社会变革,阻碍社会进步,因此是反动的.和我们理解的反动有点不同.|
+|gaslight|v. 指潛移默化地影響|gaslight 作为名词时表示"煤气灯"，在这里作动词用。它作动词时的意思来源于一部叫作 Gaslight 的悬疑片《煤气灯下》。电影的主角是一对夫妻，丈夫为了占有妻子的财产，通过耍手段让妻子以为自己的精神出了问题，最终把妻子送进了精神病院。电影中，丈夫会故意把家里的煤气灯调得忽明忽暗，当妻子说自己看到微弱的煤气灯光时，丈夫就一口咬定妻子看错了，久而久之，妻子就被洗脑，真的以为自己出现了幻觉，甚至发疯了。来，就有了"煤气灯效应"这个概念，指的是一种慢性的，潜移默化的洗脑和心理控制。|
+||Americans are gaslit into thinking that they are immeasurably strong ...|美国人在煤气灯式心理操纵的影响下，自认非常强大...|
+
 ## One's behavior
 ### Felony
 |Expression|Explanation|Examples or Remarks|
@@ -270,7 +275,8 @@
 #### Rhetoric
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
-|outpouring of grief|悲伤的倾泻|
+|outpouring of grief|悲傷的傾瀉|
+|an apple of discord|禍根、爭端|金蘋果-引起特洛伊戰爭的原因|
 
 ## Play Politics
 
@@ -290,6 +296,7 @@
 |outcry|n.强烈的抗议（或反对）|There is a public outcry over the rise in prices.公众强烈抗议物价的上涨。|
 |machinery|民主制度|
 |condone|纵容（不道德行为）|We cannot condone violence of any sort. 我们不能容忍任何形式的暴力。|
+|neo-nazism|新式納粹主義|new nazism|
 
 ### Threatening
 |Expression|Explanation|Examples or Remarks|
@@ -308,6 +315,7 @@
 |unswervingly|毫不动摇地、坚定不移地|
 |mobilize|动员|
 |an act of unprovoked aggression|无端的侵犯行为|
+|ballyhoo|v. & n. 大肆宣傳、吹噓、譁眾取寵|
 ## Helpful Adj. & Adv
 
 ### All about the size *~~of dick~~*
@@ -331,6 +339,11 @@
 |Expression|Explanation|Examples or Remarks|
 |-----------|-----------|-----------|
 |were patterned on|……是仿造于……|这个可以表示某个说法是借用于某某， expressionA was patterned on expressionB|
+
+### ... sth. out
+|Expression|Explanation|Examples or Remarks|
+|-----------|-----------|-----------|
+|thrash sth. out|徹底討論（直到找到解決辦法）|
 
 ### Identifier
 |Expression|Explanation|Examples or Remarks|
